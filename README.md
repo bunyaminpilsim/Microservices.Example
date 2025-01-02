@@ -18,8 +18,8 @@ Bu projede kullanılan başlıca teknolojiler şunlardır:
 
 - **Programlama Dili:** C#
 - **Framework:** ASP.NET Core
-- **Veri Tabanı:** MongoDB
-- **Mesajlaşma Sistemi:** RabbitMQ (varsa)
+- **Veri Tabanı:** MongoDB, SQL Server
+- **Mesajlaşma Sistemi:** RabbitMQ 
 
 ### API İletişimi
 Mikroservisler arasındaki iletişim için HTTP protokolü ve RabbitMQ gibi bir mesajlaşma aracı kullanılabilir.
